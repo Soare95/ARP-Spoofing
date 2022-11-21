@@ -1,4 +1,4 @@
-import scapy.all as scapy   
+import scapy.all as scapy    
 import time
 
 TARGET_IP = "10.0.2.15"
